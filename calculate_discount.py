@@ -1,4 +1,4 @@
-#Question number 1
+                   #Question number 1
 
 def calculate_discount(price, discount_percent):
     if discount_percent >= 20:
@@ -12,7 +12,7 @@ print(calculate_discount(100, 25))  # Should print 75.0
 print(calculate_discount(100, 10))  # Should print 100
 
 
-#Question number 2
+                    #Question number 2
 
 def calculate_discount(price, discount_percent):
     if discount_percent >= 20:
