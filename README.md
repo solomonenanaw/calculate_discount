@@ -1,2 +1,2 @@
 # calculate_discount
-PLP python Week 3 Assignment
+PLP Acadamy Week 3 Assignment for Python
